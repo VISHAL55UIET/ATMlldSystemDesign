@@ -1,6 +1,6 @@
 # ATM System: Low-Level Design (Java)
 
-A production-style **Low-Level Design** of an ATM, built in plain Java. It supports **debit card + PIN** and **cardless UPI** withdrawals, deposits and balance checks, with thread-safe account handling, PIN lockout, rollback on hardware failure, and an audit trail.
+A production-style **Low-Level Design** of an ATM, built in plain Java.. It supports **debit card + PIN** and **cardless UPI** withdrawals, deposits and balance checks, with thread-safe account handling, PIN lockout, rollback on hardware failure, and an audit trail.
 
 The goal of this project is to show how **SOLID principles and seven design patterns** fit together in one small, runnable system, not just to list them.
 
